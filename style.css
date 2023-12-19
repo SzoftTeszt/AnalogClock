@@ -1,7 +1,7 @@
 analog-clock{
     width:50vh;
-    height:50vh;
-    display: block;
+    height:55vh;
+    display: inline-block;
     margin: 0 auto;
 }
 
